@@ -21,7 +21,13 @@
 return function() {
     return [
         "Topics": {
-            "Open-Closed Principle": [],
+            "Open-Closed Principle": {
+                "The Open/Closed principle and Strategy Pattern": {
+                    "Context": "É responsável pela criação e manutenção de uma referência a uma classe Strategy específica."
+                    "Strategy": "É a interface comum a todos os algoritmos suportados. Através dessa interface, o content pode chamar o algoritmo criado pela ConcreteStrategy."
+                    "ConcreteStrategy": "Implementa o algoritmo usando a interface Strategy."
+                }
+            },
             "S.R.P. - Single Responsability Principle": [
                 "A class should have one, and only one, reason to change"
             ],
