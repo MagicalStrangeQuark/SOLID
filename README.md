@@ -60,3 +60,7 @@ return function() {
 ```php
     composer init --name magicalstrangequark/solid
 ```
+
+<h2 align="center">Books</h2>
+
+🔗 <a href="https://github.com/MagicalStrangeQuark/SOLID/blob/master/Books/Robert%20Cecil%20Martin%20-%20Clean%20Architecture%20-%20A%20Craftsman's%20Guide%20to%20Software%20Structure%20and%20Design.pdf">Robert Cecil Martin - Clean Architecture - A Craftsman's Guide to Software Structure and Design</a>
