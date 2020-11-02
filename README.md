@@ -81,6 +81,30 @@ return function() {
 
 🔗 <a href="https://github.com/MagicalStrangeQuark/SOLID/blob/master/Books/Maur%C3%ADcio%20Aniche%20-%20Orienta%C3%A7%C3%A3o%20a%20Objetos%20e%20SOLID%20para%20Ninjas:%20Projetando%20Classes%20Flex%C3%ADveis.pdf">Maurício Aniche - Orientação a Objetos e SOLID para Ninjas: Projetando Classes Flexíveis</a>
 
+* [x] 1 `Orientação a Objetos, pra que te quero?`
+
+* [x] 2 `A coesão e o tal do SRP`
+
+* [x] 3 `Acoplamento e o tal do DIP`
+
+* [ ] 4 `Classes abertas e o tal do OCP`
+
+* [ ] 5 `O encapsulamento e a propagação de mudanças`
+
+* [ ] 6 `Herança x composição e o tal do LSP`
+
+* [ ] 7 `Interfaces magras e o tal do ISP`
+
+* [ ] 8 `Consistência, objetinhos e objetões`
+
+* [ ] 9 `Maus cheiros de design`
+
+* [ ] 10 `Métricas de código`
+
+* [ ] 11 `Exemplo prático: MetricMiner`
+
+* [ ] 12 `Conclusão`
+
 🔗 <a href="https://github.com/MagicalStrangeQuark/SOLID/blob/master/Books/Maur%C3%ADcio%20Aniche%20-%20Testes%20Automatizados%20de%20Software:%20Um%20Guia%20Pr%C3%A1tico%2C%20Casa%20do%20C%C3%B3digo.pdf">Maurício Aniche - Testes Automatizados de Software: Um Guia Prático</a>
 
 🔗 <a href="https://github.com/MagicalStrangeQuark/SOLID/blob/master/Books/Robert%20Cecil%20Martin%20-%20Arquitetura%20Limpa%20-%20O%20Guia%20do%20Artes%C3%A3o%20para%20Estrutura%20e%20Design%20de%20Software.pdf">Robert Cecil Martin - Arquitetura Limpa - O Guia do Artesão para Estrutura e Design de Software</a>
