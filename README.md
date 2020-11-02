@@ -206,3 +206,29 @@ return function() {
 🔗 <a href="https://github.com/MagicalStrangeQuark/SOLID/blob/master/Books/Robert%20Cecil%20Martin%20-%20Clean%20Code%20-%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship.pdf">Robert Cecil Martin - Clean Code - A Handbook of Agile Software Craftsmanship</a>
 
 🔗 <a href="https://github.com/MagicalStrangeQuark/SOLID/blob/master/Books/Robert%20Cecil%20Martin%20-%20C%C3%B3digo%20Limpo%20-%20Habilidades%20Pr%C3%A1ticas%20do%20Agile%20Software.pdf">Robert Cecil Martin - Código Limpo - Habilidades Práticas do Agile Software</a>
+
+* [x] Prefácio
+
+* [x] Introdução
+
+* [ ] Sobre a capa
+
+* [ ] Capítulo 1: Código Limpo
+
+* [ ] Capítulo 2: Nomes Significativos
+
+```
+    ...
+```
+
+* [ ] Capítulo 16: Refatorando o SerialDate
+
+* [ ] Capítulo 17: Odores e Heurísticas
+
+* [ ] Apêndice A: Concorrência II
+
+* [ ] Apêndice B
+
+* [ ] Apêndice C: Referência Cruzada das Heurísticas
+
+* [ ] Epílogo
