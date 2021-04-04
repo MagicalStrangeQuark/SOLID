@@ -87,7 +87,7 @@ return function() {
 
 * [x] 3 `Acoplamento e o tal do DIP`
 
-* [ ] 4 `Classes abertas e o tal do OCP`
+* [x] 4 `Classes abertas e o tal do OCP`
 
 * [ ] 5 `O encapsulamento e a propagação de mudanças`
 
@@ -121,23 +121,23 @@ return function() {
 
     * [x] `1. O que são Design e Arquitetura?`
 
-    * [ ] `2. Um Conto de Dois Valores`
+    * [x] `2. Um Conto de Dois Valores`
 
-* [ ] `II. Começando com os Tijolos: Paradigmas da Programação`
+* [x] `II. Começando com os Tijolos: Paradigmas da Programação`
 
-    * [ ] `3. Panorama do Paradigma`
+    * [x] `3. Panorama do Paradigma`
 
-    * [ ] `4. Programação Estruturada`
+    * [x] `4. Programação Estruturada`
 
-    * [ ] `5. Programação Orientada a Objetos`
+    * [x] `5. Programação Orientada a Objetos`
 
-    * [ ] `6. Programação Funcional`
+    * [x] `6. Programação Funcional`
 
-* [ ] `III. Princípios de Design`
+* [x] `III. Princípios de Design`
 
-    * [ ] `7. SRP: O Princípio da Responsabilidade Única`
+    * [x] `7. SRP: O Princípio da Responsabilidade Única`
 
-    * [ ] `8. OCP: O Princípio Aberto/Fechado`
+    * [x] `8. OCP: O Princípio Aberto/Fechado`
 
     * [ ] `9. LSP: O Princípio de Substituição de Liskov`
 
